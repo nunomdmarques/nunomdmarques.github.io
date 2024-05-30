@@ -22,5 +22,16 @@ Tableau
 [Video Walkthrough of Dashboard](https://www.loom.com/share/2d39685bca6b4e6ba8e741a5e595158e?sid=3dc95285-c039-4d66-ae8e-51a738099120)
 
 ---
+[AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
+<img src="images/AirBnBlistings.png?raw=true"/>
+- Problem: Over the past decade, services like AirBnB have grown exponentially, becoming an alternative for those seeking a more local and private stay than a traditional hotel.
+Nowadays, people utilize this alternative service to generate additional income by investing in rental properties. However, the rental market is highly region and time-specific
+- Objective: Understand the Amsterdam AirBnB market to provide insights for prospective AirBnB hosts who have or want to have listings in Amsterdam.
+- Context: This project was completed in the context of Career Foundry’s
+Data Analytics Program. The data is real.
+- Skills: Python, Data wrangling & subsetting, Joins, grouping and aggregating, Data Viz(Matplotlib & Seaborn),Tableau Storyboards
+<br><br>
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/AirBnBAmsterdamlistinganalysisproject/Story1) <br><br>
+[Github Repository](https://github.com/nunomdmarques/AirBnB-Amsterdam-Listing-Analysis)
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
