@@ -18,7 +18,7 @@ fictitious.
 - Skills: Data cleaning, wrangling and analysis in Excel. Visualizations in
 Tableau
 <br><br>
-[Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/PreparingastaffingplanforInfluenzaSeasonManagement/Story1)
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/PreparingastaffingplanforInfluenzaSeasonManagement/Story1) <br><br>
 [Video Walkthrough of Dashboard](https://www.loom.com/share/2d39685bca6b4e6ba8e741a5e595158e?sid=3dc95285-c039-4d66-ae8e-51a738099120)
 
 ---
