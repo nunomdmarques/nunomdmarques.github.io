@@ -6,7 +6,7 @@
 
 ---
 [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
-<img src="mages/US%20States%20by%20Priority%20Level.png?raw=true"/>
+<img src="images/US%20States%20by%20Priority%20Level.png?raw=true"/>
 
 ---
 
