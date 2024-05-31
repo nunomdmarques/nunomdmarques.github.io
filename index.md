@@ -36,7 +36,12 @@ Data Analytics Program. The data is real.
 <br><br>
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/AirBnBAmsterdamlistinganalysisproject/Story1) <br><br>
 [Github Repository](https://github.com/nunomdmarques/AirBnB-Amsterdam-Listing-Analysis)
+
 ---
+
 ### [Short summary of additional projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
