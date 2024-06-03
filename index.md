@@ -51,6 +51,7 @@ I sought to answer:
 - Are there any trends in the influenza season’s behavior?
 - Is there a relationship between vulnerable populations and death counts?
 - How do we prioritize which states to send staff to?
+
 <br><br>
 ### Trends in Influenza Season:
 My analysis showed that the influenza season in the U.S. predominantly runs from November to March, with a peak in deaths starting in November and tapering off after March. This confirmed that influenza has a predictable seasonality
@@ -72,12 +73,12 @@ I presented the states that required additional staffing based on my analysis an
 <br><br>
 <img src="images/Priority levels.png?raw=true"/>
 ### Conclusions & Next Steps:
-To wrap up:
 <br><br>
 - I confirmed that the influenza season lasts from November to March.
 - There’s no significant relationship between the proportion of elderly populations and death counts.
 - By considering higher normalized and total death counts, we identified the most critical states for staffing.
 - Moving forward, we need to assess seasonality on a per-state basis, gather data on younger age groups and vaccination statuses, and plan procedures for evaluating the staffing plan's effectiveness.
+
 <br><br>
 ### Project Retrospective:
 The biggest challenges were dealing with missing data and presenting information for 51 states in a meaningful way. I learned the importance of setting up proper data collection processes and using standard data aggregation methods to make information more readable and statistically meaningful.
@@ -85,7 +86,9 @@ The biggest challenges were dealing with missing data and presenting information
 ### Supporting Material:
 If you’re interested, you can check out the full analysis on my [Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/PreparingastaffingplanforInfluenzaSeasonManagement/Story1)
  and watch my [Video Walkthrough of the Dashboard](https://www.loom.com/share/2d39685bca6b4e6ba8e741a5e595158e?sid=3dc95285-c039-4d66-ae8e-51a738099120). Feel free to reach out to me on LinkedIn or via email if you have any questions!
+ 
 ---
+
 ### [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
 <img src="images/AirBnBlistings.png?raw=true"/>
 - Problem: Over the past decade, services like AirBnB have grown exponentially, becoming an alternative for those seeking a more local and private stay than a traditional hotel.
