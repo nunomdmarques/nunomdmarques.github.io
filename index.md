@@ -29,7 +29,9 @@ Tableau
 ### Success Definition and Initial Brainstorming:
 Before starting to even analyze the data, I needed to understand how to define success, as well as do some research on which variables could be the more interesting.
 <br><br>
-So, how do we define "adequate" staffing? According to the agency's requirements and my own research we aimed to minimize understaffing (staff-to-patient ratio < 0.23) and overstaffing (staff-to-patient ratio > 0.27). At the onset of the project we assumed critical parameters for influenza severity included the number of vulnerable populations, influenza death counts, and vaccination rates.
+So, how do we define "adequate" staffing? According to the agency's requirements and my own research we aimed to minimize understaffing (staff-to-patient ratio < 0.23) and overstaffing (staff-to-patient ratio > 0.27).
+<br>
+At the onset of the project we assumed critical parameters for influenza severity included the number of vulnerable populations, influenza death counts, and vaccination rates.
 <br><br>
 ### Staffing Adequacy:
 Understanding which states were critical in past years would have been ideal, but we didn't have data on staffing adequacy for those years. So, I advised the agency to start collecting data on staff-to-patient ratios and staff and patient satisfaction surveys for future planning and assessing next year's influenza season staffing plan.
