@@ -39,8 +39,6 @@ I gathered data from multiple sources:
 - Population data from the U.S. Census Bureau.
 - Influenza death counts, hospital visits, lab tests, and children’s flu vaccination data from the CDC.
 
-<br><br>
-
 ### Data Cleaning:
 I needed to ensure the data was accurate, complete, consistent, unique, timely, and valid. Unfortunately, some datasets, like children’s vaccination rates and influenza-related hospital visits, were too incomplete to analyze further due to suppression of data for anonymization. Similarly, a lot of data for age groups below 45 years was missing from the influenza deaths dataset, as you can see from the frequency table below.
 
