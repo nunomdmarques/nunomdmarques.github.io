@@ -48,7 +48,6 @@ I needed to ensure the data was accurate, complete, consistent, unique, timely, 
 I focused on populations aged 45 and older, since no alternative complementary datasets were found. I joined and grouped the influenza death counts and the state population data by the following common denominators: US state and month of the year (from 2009-2017). Then, I normalized influenza death counts for each state by the state populations for the respective month to prepare for the analysis.
 <br><br>
 ### Data Analysis – Key Questions:
-<br><br>
 I sought to answer:
 - Are there any trends in the influenza season’s behavior?
 - Is there a relationship between vulnerable populations and death counts?
