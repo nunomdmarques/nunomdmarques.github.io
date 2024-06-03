@@ -1,14 +1,14 @@
-## About Me
+# About Me
 3+ Years of experience in the gaming industry, as Product & Marketing Manager. Academical background in engineering, research, entrepreneurship and innovation. Fell in love with the more data-related aspects of Product Management after having my first experience with dashboarding and reporting to senior leadership, so decided to pursue further education.
 <br><br>
 Currently looking for job as Data Analyst /Business Intelligence, ideally in the gaming industry, but open to other areas of knowledge. Mainly interested in bringing business value through enacting strategic business/product changes grounded in a deeper understanding of what affects critical KPIs. 
 <br><br>
 Currently situated in Munich, Germany. Open to relocation or remote work.
 
-## Portfolio
+# Portfolio
 
 ---
-### [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
+## [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
 <img src="images/US%20States%20by%20Priority%20Level.png?raw=true"/>
 - Problem: The US has an influenza season where more people than usual
 suffer from the flu. Vulnerable populations develop serious complications
@@ -73,7 +73,6 @@ I presented the states that required additional staffing based on my analysis an
 <br><br>
 <img src="images/Priority levels.png?raw=true"/>
 ### Conclusions & Next Steps:
-<br><br>
 - I confirmed that the influenza season lasts from November to March.
 - There’s no significant relationship between the proportion of elderly populations and death counts.
 - By considering higher normalized and total death counts, we identified the most critical states for staffing.
@@ -89,7 +88,7 @@ If you’re interested, you can check out the full analysis on my [Tableau Publi
  
 ---
 
-### [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
+## [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
 <img src="images/AirBnBlistings.png?raw=true"/>
 - Problem: Over the past decade, services like AirBnB have grown exponentially, becoming an alternative for those seeking a more local and private stay than a traditional hotel.
 Nowadays, people utilize this alternative service to generate additional income by investing in rental properties. However, the rental market is highly region and time-specific
