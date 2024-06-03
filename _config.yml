@@ -1,12 +1,9 @@
 title: Nuno Marques # your name (or website title) here
 logo: "/images/no%20bg%20pic%20nuno.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I’m a data analyst with a background in product and marketing management for video games, as well as market analysis/benchmarking.
-  I’ve helped game developers plan, validate, and execute their product and go-to-market strategy and defined, tracked and analysed market trends pre-development, and KPIs post-launch, to maximize opportunities for commercial and critical success.
-  My work in analysing social, sales, and critical reception data has led me to delve deeper into this branch of knowledge, to maximize value extracted from data and improve business and product decisions.
-  <br><br>
-  <a href="www.linkedin.com/in/nunomdmarques">View My LinkedIn Profile</a> 
-  <br><br>
+Product Manager in the games industry transitioning to a data-oriented role. 
+  <a href="mailto:nunomdmarques@gmail.com">Reach me by Email
+  <a href="www.linkedin.com/in/nunomdmarques">Connect with me on LinkedIn</a> 
   <a href="https://drive.google.com/file/d/1xg4JPzDp680u-IY2_4g5CP2euscfmU5_/view">Download My Resume</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
