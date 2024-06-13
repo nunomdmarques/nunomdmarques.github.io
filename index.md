@@ -6,7 +6,7 @@ Currently looking for job as Data Analyst /Business Intelligence, ideally in the
 Currently situated in Munich, Germany. Open to relocation or remote work.
 
 # Portfolio
-
+### [Short summary of all projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
 ---
 ## [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
 <img src="images/US%20States%20by%20Priority%20Level.png?raw=true"/>
@@ -103,9 +103,6 @@ Data Analytics Program. The data is real.
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/AirBnBAmsterdamlistinganalysisproject/Story1) <br><br>
 [Github Repository](https://github.com/nunomdmarques/AirBnB-Amsterdam-Listing-Analysis)
 
----
-
-### [Short summary of additional projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
 
 ---
 
