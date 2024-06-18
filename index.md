@@ -94,10 +94,9 @@ If you’re interested, you can check out the full analysis on my [Tableau Publi
 ## [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
 <img src="images/AirBnBlistings.png?raw=true"/>
 - Problem: Over the past decade, services like AirBnB have grown exponentially, becoming an alternative for those seeking a more local and private stay than a traditional hotel.
-Nowadays, people utilize this alternative service to generate additional income by investing in rental properties. However, the rental market is highly region and time-specific
-- Objective: Understand the Amsterdam AirBnB market to provide insights for prospective AirBnB hosts who have or want to have listings in Amsterdam.
-- Context: This project was completed in the context of Career Foundry’s
-Data Analytics Program. The data is real.
+Nowadays, people utilize this alternative service to generate additional income by investing in rental properties. However, the rental market is highly region and time-specific<br>
+- Objective: Understand the Amsterdam AirBnB market to provide insights for prospective AirBnB hosts who have or want to have listings in Amsterdam.<br>
+- Context: This project was completed in the context of Career Foundry’sData Analytics Program. The data is real.<br>
 - Skills: Python, Data wrangling & subsetting, Joins, grouping and aggregating, Data Viz(Matplotlib & Seaborn),Tableau Storyboards
 <br><br>
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/AirBnBAmsterdamlistinganalysisproject/Story1) <br><br>
@@ -105,6 +104,13 @@ Data Analytics Program. The data is real.
 
 
 ---
+
+## [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/)
+<img src="/images/Screenshot%202024-06-18%20222945.png?raw=true"/>
+- Problem: Rockbuster Stealth LLC is a movie rental company that used to have stores all around the world. Competition from streaming services such as Netflix and Amazon Prime, has brought them to reconsider their current business model.<br>
+- Objective: Query Rockbuster’s database to understand current clients and boost launch of new online video rental survice<br>
+- Context: This project was completed in the context of Career Foundry’s Data Analytics Program. The data is fabricated.<br>
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
