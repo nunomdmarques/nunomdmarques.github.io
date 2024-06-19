@@ -8,7 +8,8 @@ Currently situated in Munich, Germany. Open to relocation or remote work.
 # Portfolio
 ### [Short summary of all projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
 ---
-## [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
+
+## Highlighted Project - [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
 <img src="images/US%20States%20by%20Priority%20Level.png?raw=true"/>
 - **Problem**: The US has an influenza season where more people than usual
 suffer from the flu. Vulnerable populations develop serious complications
