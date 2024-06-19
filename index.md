@@ -111,9 +111,9 @@ Nowadays, people utilize this alternative service to generate additional income 
 - **Objective**: Query Rockbuster’s database to understand current clients and boost launch of new online video rental survice<br>
 - **Context**: This project was completed in the context of Career Foundry’s Data Analytics Program. The data is fabricated.<br>
 - **Skills**: PostgreSQL, Database querying, Filtering data, Summarizing & cleaning data, Joining tables, Performing subqueries, Common table expressions <br><br>
-[Rockbuster Data Set](https://www.google.com/url?q=http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip&sa=D&source=apps-viewer-frontend&ust=1718828740041405&usg=AOvVaw3GD8eLLqRKpkRrQltiM1yf&hl=pt-BR)
-[Full analysis presentation](https://drive.google.com/file/d/1WbnU_rA169lxH0iKGI91MF3nqbgQYP5g/view)
-[Data Dictionary](https://drive.google.com/file/d/1DDTQgIG8Imrn9GkAonF3a4xCW2tzDTdt/view)
+[Rockbuster Data Set](https://www.google.com/url?q=http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip&sa=D&source=apps-viewer-frontend&ust=1718828740041405&usg=AOvVaw3GD8eLLqRKpkRrQltiM1yf&hl=pt-BR) <br>
+[Full analysis presentation](https://drive.google.com/file/d/1WbnU_rA169lxH0iKGI91MF3nqbgQYP5g/view) <br>
+[Data Dictionary](https://drive.google.com/file/d/1DDTQgIG8Imrn9GkAonF3a4xCW2tzDTdt/view) <br>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
