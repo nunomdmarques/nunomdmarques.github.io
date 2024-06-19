@@ -18,7 +18,7 @@ adequately treat these extra patients. It is hard to understand which states
 and hospitals should be prioritized when designing staff plans.
 - **Objective**: Determine the priority states to staff, based on historical data
 from 2009-2017.
-- **Client***: A medical staffing agency covering all hospitals in the 50 US states
+- **Client**: A medical staffing agency covering all hospitals in the 50 US states
 wants help to build a staffing plan for next year’s influenza season.
 - **Context**: This project was completed in the context of Career Foundry’s
 Data Analytics Program. The data is real, but the scenario and agency are
