@@ -10,19 +10,19 @@ Currently situated in Munich, Germany. Open to relocation or remote work.
 ---
 ## [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
 <img src="images/US%20States%20by%20Priority%20Level.png?raw=true"/>
-- Problem: The US has an influenza season where more people than usual
+- **Problem**: The US has an influenza season where more people than usual
 suffer from the flu. Vulnerable populations develop serious complications
 and end up in the hospital. Hospitals and clinics need additional staff to
 adequately treat these extra patients. It is hard to understand which states
 and hospitals should be prioritized when designing staff plans.
-- Objective: Determine the priority states to staff, based on historical data
+- **Objective**: Determine the priority states to staff, based on historical data
 from 2009-2017.
-- Client: A medical staffing agency covering all hospitals in the 50 US states
+- **Client***: A medical staffing agency covering all hospitals in the 50 US states
 wants help to build a staffing plan for next year’s influenza season.
-- Context: This project was completed in the context of Career Foundry’s
+- **Context**: This project was completed in the context of Career Foundry’s
 Data Analytics Program. The data is real, but the scenario and agency are
 fictitious.
-- Skills: Data cleaning, wrangling and analysis in Excel. Visualizations in
+- **Skills**: Data cleaning, wrangling and analysis in Excel. Visualizations in
 Tableau
 <br><br>
 
@@ -93,11 +93,11 @@ If you’re interested, you can check out the full analysis on my [Tableau Publi
 
 ## [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
 <img src="images/AirBnBlistings.png?raw=true"/>
-- Problem: Over the past decade, services like AirBnB have grown exponentially, becoming an alternative for those seeking a more local and private stay than a traditional hotel.
+- **Problem**: Over the past decade, services like AirBnB have grown exponentially, becoming an alternative for those seeking a more local and private stay than a traditional hotel.
 Nowadays, people utilize this alternative service to generate additional income by investing in rental properties. However, the rental market is highly region and time-specific<br>
-- Objective: Understand the Amsterdam AirBnB market to provide insights for prospective AirBnB hosts who have or want to have listings in Amsterdam.<br>
-- Context: This project was completed in the context of Career Foundry’sData Analytics Program. The data is real.<br>
-- Skills: Python, Data wrangling & subsetting, Joins, grouping and aggregating, Data Viz(Matplotlib & Seaborn),Tableau Storyboards
+- **Objective**: Understand the Amsterdam AirBnB market to provide insights for prospective AirBnB hosts who have or want to have listings in Amsterdam.<br>
+- **Context**: This project was completed in the context of Career Foundry’sData Analytics Program. The data is real.<br>
+- **Skills**: Python, Data wrangling & subsetting, Joins, grouping and aggregating, Data Viz(Matplotlib & Seaborn),Tableau Storyboards
 <br><br>
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/AirBnBAmsterdamlistinganalysisproject/Story1) <br><br>
 [Github Repository](https://github.com/nunomdmarques/AirBnB-Amsterdam-Listing-Analysis)
@@ -107,10 +107,13 @@ Nowadays, people utilize this alternative service to generate additional income 
 
 ## [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/)
 <img src="/images/Screenshot%202024-06-18%20222945.png?raw=true"/>
-- Problem: Rockbuster Stealth LLC is a movie rental company that used to have stores all around the world. Competition from streaming services such as Netflix and Amazon Prime, has brought them to reconsider their current business model.<br>
-- Objective: Query Rockbuster’s database to understand current clients and boost launch of new online video rental survice<br>
-- Context: This project was completed in the context of Career Foundry’s Data Analytics Program. The data is fabricated.<br>
-
-
+- **Problem**: Rockbuster Stealth LLC is a movie rental company that used to have stores all around the world. Competition from streaming services such as Netflix and Amazon Prime, has brought them to reconsider their current business model.<br>
+- **Objective**: Query Rockbuster’s database to understand current clients and boost launch of new online video rental survice<br>
+- **Context**: This project was completed in the context of Career Foundry’s Data Analytics Program. The data is fabricated.<br>
+- **Skills**: PostgreSQL, Database querying, Filtering data, Summarizing & cleaning data, Joining tables, Performing subqueries, Common table expressions <br><br>
+[Rockbuster Data Set](https://www.google.com/url?q=http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip&sa=D&source=apps-viewer-frontend&ust=1718828740041405&usg=AOvVaw3GD8eLLqRKpkRrQltiM1yf&hl=pt-BR)
+[Full analysis presentation](https://drive.google.com/file/d/1WbnU_rA169lxH0iKGI91MF3nqbgQYP5g/view)
+[Data Dictionary](https://drive.google.com/file/d/1DDTQgIG8Imrn9GkAonF3a4xCW2tzDTdt/view)
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
