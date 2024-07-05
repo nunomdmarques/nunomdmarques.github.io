@@ -98,7 +98,7 @@ If you’re interested, you can check out the full analysis on my [Tableau Publi
 Nowadays, people utilize this alternative service to generate additional income by investing in rental properties. However, the rental market is highly region and time-specific<br>
 - **Objective**: Understand the Amsterdam AirBnB market to provide insights for prospective AirBnB hosts who have or want to have listings in Amsterdam.<br>
 - **Context**: This project was completed in the context of Career Foundry’sData Analytics Program. The data is real.<br>
-- **Skills**: Python, Data wrangling & subsetting, Joins, grouping and aggregating, Data Viz(Matplotlib & Seaborn),Tableau Storyboards
+- **Skills**: Python (sklearn), Clustering Algorithms, Data wrangling & subsetting, Joins, grouping and aggregating, Data Viz(Matplotlib & Seaborn),Tableau Storyboards
 <br><br>
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/nuno.marques1822/viz/AirBnBAmsterdamlistinganalysisproject/Story1) <br><br>
 [Github Repository](https://github.com/nunomdmarques/AirBnB-Amsterdam-Listing-Analysis)
