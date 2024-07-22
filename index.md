@@ -109,7 +109,7 @@ Nowadays, people utilize this alternative service to generate additional income 
 ## [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/)
 <img src="/images/Screenshot%202024-06-18%20222945.png?raw=true"/>
 - **Problem**: Rockbuster Stealth LLC is a movie rental company that used to have stores all around the world. Competition from streaming services such as Netflix and Amazon Prime, has brought them to reconsider their current business model.<br>
-- **Objective**: Query Rockbuster’s database to understand current clients and boost launch of new online video rental survice<br>
+- **Objective**: Query Rockbuster’s database to understand current clients and boost launch of new online video rental service<br>
 - **Context**: This project was completed in the context of Career Foundry’s Data Analytics Program. The data is fabricated.<br>
 - **Skills**: PostgreSQL, Database querying, Filtering data, Summarizing & cleaning data, Joining tables, Performing subqueries, Common table expressions <br><br>
 [Rockbuster Data Set](https://www.google.com/url?q=http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip&sa=D&source=apps-viewer-frontend&ust=1718828740041405&usg=AOvVaw3GD8eLLqRKpkRrQltiM1yf&hl=pt-BR) <br>
