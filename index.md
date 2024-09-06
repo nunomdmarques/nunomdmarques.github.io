@@ -7,6 +7,10 @@ Currently situated in Munich, Germany. Open to relocation or remote work.
 
 # Portfolio
 ### [Short summary of all projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
+### [Database Modelling project](https://github.com/nunomdmarques/Database-Modelling-Project/tree/main)
+### [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
+### [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
+### [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/)
 ---
 
 ## Highlighted Project - [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
