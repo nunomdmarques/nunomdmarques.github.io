@@ -6,11 +6,11 @@ Currently looking for job as Data Analyst /Business Intelligence, ideally in the
 Currently situated in Munich, Germany. Open to relocation or remote work.
 
 # Portfolio
-### [Short summary of all projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
-### [Database Modelling project](https://github.com/nunomdmarques/Database-Modelling-Project/tree/main)
-### [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
-### [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf)
-### [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/)
+### [Short summary of smaller projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
+### [Database Modelling project](https://github.com/nunomdmarques/Database-Modelling-Project/tree/main) - SQL, data modelling, database architecture
+### [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf) - Excel, Tableau
+### [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf) - Python(sklearn, pandas, matplotlib), Excel, Tableau
+### [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/) - SQL
 ---
 
 ## Highlighted Project - [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
