@@ -1,7 +1,7 @@
 # About Me
 2+ Years of experience in the gaming industry, as Product & Marketing Manager. Academical background in engineering, research, entrepreneurship and innovation. Fell in love with the more data-related aspects of Product Management after having my first experience with dashboarding and reporting to senior leadership, so decided to pursue further education.
 <br><br>
-Currently looking for job as Data Analyst /Business Intelligence, ideally in the gaming industry, but open to other areas of knowledge. Mainly interested in bringing business value through enacting strategic business/product changes grounded in a deeper understanding of what affects critical KPIs. 
+Currently looking for job as Data Analyst/Product Manager, ideally in the gaming industry, but open to other areas of knowledge. Mainly interested in bringing business value through enacting strategic business/product changes grounded in a deeper understanding of what affects critical KPIs. 
 <br><br>
 Currently situated in Munich, Germany. Open to relocation or remote work.
 
