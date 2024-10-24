@@ -1,16 +1,14 @@
 # About Me
-2+ Years of experience in the gaming industry, as Product & Marketing Manager and Consultant. Academical background in engineering, research, entrepreneurship and innovation. Fell in love with the more data-related aspects of Product Management after having my first experience with dashboarding and reporting to senior leadership, so decided to pursue further education.
-<br><br>
-Currently looking for job as Data Analyst/Product Manager, ideally in the gaming industry, but open to other areas of knowledge. Mainly interested in bringing business value through enacting strategic business/product changes grounded in a deeper understanding of what affects critical KPIs. 
+3 Years of experience in the gaming industry, as Product & Marketing Manager and Consultant. Academical background in engineering, research, entrepreneurship and innovation. Fell in love with the more data-related aspects of Product Management after having my first experience with dashboarding and reporting to senior leadership, so I acquired a Data Analytics certification, and am looking for data focused or data-adjacent work opportunities. 
 <br><br>
 Currently situated in Munich, Germany. Open to relocation or remote work.
 
 # Portfolio
-### [Short summary of smaller projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
 ### [Database Modelling project](https://github.com/nunomdmarques/Database-Modelling-Project/tree/main) - SQL, data modelling, database architecture
 ### [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf) - Excel, Tableau
 ### [AirBnB Amsterdam Listings Analysis](/pdf/AirBnB%20project%20presentation.pdf) - Python(sklearn, pandas, matplotlib), Excel, Tableau
 ### [Rockbuster Stealth Customer Base Analysis](https://nunomdmarques.github.io/Rockbuster-Stealth-Data-Analysis_Project/) - SQL
+### [Short summary of smaller projects](https://drive.google.com/file/d/17geiwNp7N6u-_QfoQPS9MhVLHKrM8mF2/view)
 ---
 
 ## Highlighted Project - [Influenza Season Staffing Plan Development](/pdf/Task 4 - Case Study.pdf)
